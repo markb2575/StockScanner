@@ -42,4 +42,6 @@ Feel free to make any changes to better suit your needs.
   **After the loading completes it looks like this:**
   
   ![image](https://user-images.githubusercontent.com/81063978/231799481-6dac4843-98c2-4b61-98e5-8d60a9792022.png)
+  
+  The rows towards the top contain the highest rating.
 
