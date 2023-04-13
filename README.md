@@ -33,7 +33,7 @@ Feel free to make any changes to better suit your needs.
 
 # How to run:
 - After installing the required modules:
-  - Navigate to the directory containing gui.py and run {python gui.py}
+  - Navigate to the directory containing gui.py and run `python gui.py`
   
   **It will begin to scan through the tickers:**
   
