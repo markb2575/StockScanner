@@ -7,7 +7,7 @@ A Stock Scanning tool that searches for stocks with the following criteria:
 
 ## Note:
 - **This tool should not be fully trusted and used with caution. It does not indicate stocks you should buy, it is just a tool that may make it easier deciding.**
-- **Additionally, there are many tools availiable online for free that offer more reliable data such as finviz.**
+- **Additionally, there are many tools available online for free that offer more reliable data such as finviz.**
 - **This repository was mainly a project to learn more about stocks and increase my software and programming abilities.**
 
 ## Required Modules:
