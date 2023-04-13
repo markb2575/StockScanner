@@ -19,3 +19,14 @@ Feel free to make any changes to better suit your needs.
 - **This tool should not be fully trusted and used with caution. It does not indicate stocks you should buy, it is just a tool that may make it easier deciding.**
 - **Additionally, there are many tools availiable online for free that offer more reliable data such as finviz.**
 - **This repository was mainly a project to learn more about stocks and increase my software and programming abilities.**
+
+# Required Modules:
+- time
+- requests
+- beautifulsoup
+- yfinance
+- pandas
+- ray
+- statistics
+- tkinter
+- threading
