@@ -30,3 +30,14 @@ Feel free to make any changes to better suit your needs.
 - statistics
 - tkinter
 - threading
+
+# How to run:
+- After installing the required modules:
+  - Navigate to the directory containing gui.py and run {python gui.py}
+  
+  **It will begin to scan through the tickers:**
+  ![image](https://user-images.githubusercontent.com/81063978/231800079-c66d6d39-05af-418f-9ca3-5232221ea690.png)
+
+  **After the loading completes it looks like this:**
+  ![image](https://user-images.githubusercontent.com/81063978/231799481-6dac4843-98c2-4b61-98e5-8d60a9792022.png)
+
