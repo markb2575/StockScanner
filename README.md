@@ -42,7 +42,7 @@ A Stock Scanning tool that searches for stocks with the following criteria:
 
 - This program makes use of Ray to process the tickers faster than using the default python multithreading.
 
-- The criteria is finally averaged into a "rating" which indicates the stock with the "best" criteria. It is then displaying in a GUI made with tkinter.
+- The criteria is finally averaged into a "rating" which indicates the stock with the "best" criteria. It is then displayed in a GUI made with tkinter.
 
 - Feel free to make any changes to better suit your needs.
 
